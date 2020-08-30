@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+}
+.pointer {cursor: pointer;}
+hr { 
+  display: block;
+  margin-top: 0.0em;
+  margin-bottom: 0.5em;
+  margin-left: 10%;
+  margin-right: 10%;
+  border-style: inset;
+  border-width: 1px;
+}
+.first{
+  margin-right: 50%;
+}
+.second{
+  margin-left: 25%;
+}
+.up{
+  margin-right: 50%;
+}
+.down{
+  margin-left: 25%;
+}
+.hl{
+  margin-right: 50%;
+}
+.al{
+  margin-left: 25%;
+}
